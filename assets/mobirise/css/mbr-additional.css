@@ -1338,16 +1338,6 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qwUDBfAGXz {
-  background-image: url("../../../assets/images/afb-1-5-2000x1333.jpg");
-}
-.cid-qwUDBfAGXz .mbr-text,
-.cid-qwUDBfAGXz .mbr-section-btn {
-  text-align: center;
-}
-.cid-qwUDBfAGXz H1 {
-  text-align: center;
-}
 .cid-qwUFifyvc0 {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1385,48 +1375,6 @@ body {
     width: 100% !important;
   }
   .cid-qwUFifyvc0 .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-  }
-}
-.cid-qwUGIBq7te {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: #ffffff;
-}
-.cid-qwUGIBq7te .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-}
-.cid-qwUGIBq7te .media-container-row .img-item {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-}
-.cid-qwUGIBq7te .media-container-row .img-item img {
-  width: 100%;
-}
-.cid-qwUGIBq7te .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-qwUGIBq7te .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-qwUGIBq7te .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-qwUGIBq7te .img-item {
-    width: 100% !important;
-  }
-  .cid-qwUGIBq7te .img-item.item1 {
     width: 100%;
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
@@ -1494,6 +1442,9 @@ body {
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
   }
+}
+.cid-qJDtA4B46T {
+  background-color: #232323;
 }
 .cid-qxzj1HZFhC .navbar {
   background: #ffffff;
@@ -1862,15 +1813,6 @@ body {
   .cid-qxzj1HZFhC .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qxzkIHDuZA {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qxzkIHDuZA .mbr-text {
-  color: #767676;
-  text-align: right;
 }
 .cid-qxzhpzdtwy .navbar {
   background: #ffffff;
