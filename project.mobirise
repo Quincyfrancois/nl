@@ -160,7 +160,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "LP HOES",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1051,7 +1051,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "BIO",
-        "order": 5
+        "order": 2
       },
       "components": []
     },
@@ -1059,7 +1059,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "DE BELGISCHE GRONDWET",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1409,7 +1409,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "HANDLEIDING",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
